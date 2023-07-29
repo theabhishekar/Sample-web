@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ title }} - Home</title>
+</head>
+<body>
+    <h1>Welcome to {{ name }}'s Personal Website</h1>
+    <p>This is the homepage of my personal website.</p>
+    <p>Feel free to explore more using the navigation bar above!</p>
+</body>
+</html>
