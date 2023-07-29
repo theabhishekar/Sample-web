@@ -1,0 +1,5 @@
+# Sample-web
+A Personal Website, crafted using HTML, CSS, and JavaScript, serves as a digital portfolio to display projects, skills, resume, and contact details. With an attractive and interactive interface, it allows visitors to explore accomplishments, expertise, and get in touch easily.
+It's a Website created using HTML, CSS, and JavaScript projects, skills, resume, and contact information. 
+This engaging website serves as a digital portfolio, providing visitors with a comprehensive overview of the individual's achievements, expertise, and experiences. Through skillfully crafted HTML layouts and responsive CSS designs, the website ensures seamless user experience across different devices. Interactive elements powered by JavaScript enhance the browsing experience, allowing users to explore project demos, view skill descriptions, and easily get in touch through contact forms. 
+With its concise and professional presentation, this Personal Website becomes a powerful tool for personal branding, networking, and career opportunities.
